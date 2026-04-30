@@ -1,0 +1,1 @@
+BusManageSys.o: BusManageSys.cpp
